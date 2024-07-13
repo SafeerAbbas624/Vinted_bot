@@ -1,0 +1,39 @@
+first of all download & install python, 
+then download & install pycharm
+
+1. open main.py file in pycharm.
+
+2. install all packages/libraries imported in code.
+
+3. run the code when there is no red error in the pycharm top right corner. 
+
+4. if there is red error then try to solve that error.
+
+5. if code is running it will open vinted.fr site and login for you ID and password. 
+   after that there will be verification code demand from the website.
+ 
+6. please try to write verification code by yourself. code verification is for one time to run the code. 
+   if code is running then leave it and watch for any error or mistake, 
+   because bot still needs testing and developer was unable to do so because of verification.
+   if any problem is there please contact Python Developer Safeer Abbas.
+
+7. Developer contact details are below.
+	https://www.fiverr.com/safeerabbas624
+	https://github.com/SafeerAbbas624
+
+
+Below are the instruction to on how to create folder and txt file for listings, title, description, category etc.
+
+Product folder is the main folder bot will detect. 
+never change product folder name.
+inside product folder make seprate folder for each listing or new listing/upload, with any name.
+place all images files you want to upload with any name.
+always place text file for title, description category etc.
+txt file should be same as this file. absol.txt in product/absol/absol.txt
+never write  like this in txt file.
+		title :
+	    description:
+	    category:
+just write same as sample file of absol.txt.
+
+For further qury please contact developer.
